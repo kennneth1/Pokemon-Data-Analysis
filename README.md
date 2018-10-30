@@ -1,5 +1,4 @@
 # Pokemon-Data-Analysis
-Battle statistic analysis
 
 This program reads the Pokemon.csv file and cleans the entry names, and explores/visualizes data
 
