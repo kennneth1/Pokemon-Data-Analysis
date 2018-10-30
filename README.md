@@ -10,4 +10,4 @@ hp_vs_attack() and speed_vs_attack() compares important pokemon stats to visuali
 
 hp_vs_attack shows weak correlation, whereas speed_vs_attack has a strong upwards correlation
 
-
+The distribution curve shows that the attack stat falls within a standard distribution
