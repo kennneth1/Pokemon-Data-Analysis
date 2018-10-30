@@ -1,6 +1,6 @@
 # Pokemon-Data-Analysis
 
-This program reads the Pokemon.csv file and cleans the entry names, and explores/visualizes data
+This program takes the Pokemon.csv file, cleans the entry names, and explores/visualizes the dataset
 
 attack_plotter() aggregates Pokemon data by "Type", calculates the mean of that group, then generates a bar plot.
 
